@@ -7,7 +7,7 @@ const currentDate = date.getFullYear();
 
 return <footer>
 
-<p>&copy {currentDate}</p> 
+<p>&copy; Copyright {currentDate}</p> 
 
 </footer>
 
