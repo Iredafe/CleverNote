@@ -7,7 +7,7 @@ const currentDate = date.getFullYear();
 
 return <footer>
 
-<p>&copy; Copyright {currentDate}</p> 
+<p>&copy; Copyright Iredafe Owolabi {currentDate}</p> 
 
 </footer>
 
