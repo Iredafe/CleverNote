@@ -1,9 +1,10 @@
 import React from "react";
+import AssignmentIcon from '@material-ui/icons/Assignment';
 
 function Header(){
 
 return <header>
-<h1>CleverNote</h1>
+<h1><AssignmentIcon /> CleverNote</h1>
 </header>
 
 }
